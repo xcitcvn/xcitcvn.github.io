@@ -2,6 +2,6 @@
 headless = true
 +++
 
-- [**Exam**]({{< relref "/docs/" >}})
-  - [HSG 12 Tỉnh Nghệ An 2022-2023]({{< relref "/docs/hsgtinh-nghean" >}})
+- [**Exam**]({{< relref "/posts/" >}})
+  - [HSG 12 Nghe An 2022-2023]({{< relref "/posts/hsgtinh-nghean" >}})
 - [Blog]({{< relref "/docs" >}})
