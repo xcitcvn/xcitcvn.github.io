@@ -1,7 +1,6 @@
 ---
 title: "HSG 12 Tỉnh Nghệ An 2022 - 2023"
 date: 2022-11-15T15:02:00+07:00
-draft: true
 ---
 
 | Tên bài           | File nguồn      | File Input       | File output      | Thời gian | Bộ nhớ |
