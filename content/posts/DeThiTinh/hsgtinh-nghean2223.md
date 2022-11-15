@@ -12,7 +12,7 @@ date: 2022-11-15T15:02:00+07:00
 
 Phần mở rộng .\* được thay thế bằng Pas, Cpp, Py ứng với các ngôn ngữ lập trình Pascal, C++, Python.
 
-## Hãy lập trình giải các bài toán sau
+## Hãy lập trình giải các bài toán sau đây:
 
 ### Câu 1. _(6 điểm)_ Số không hoàn hảo
 
@@ -51,9 +51,9 @@ Ghi ra tệp văn bản **_KhongHoanHao.Out_** gồm một số nguyên duy nh�
 
 Đức cùng nhóm bạn của mình được thầy giáo giao nhiệm vụ hỗ trợ chuẩn bị phòng máy cho kì thi lập trình danh giá được tổ chức sắp tới. Phòng máy có _m_ máy tính, công việc của nhóm Đức là sử dụng các ổ cắm điện có dây để cung cấp nguồn điện cho _m_ máy tính. Phòng máy chỉ có một ổ điện có một khe cắm ở trên tường là đang có điện, và được gọi là ổ điện nguồn. Hiện tại trong nhà kho có _n_ ổ cắm điện có dây, mỗi ổ điện có một số khe cắm và một đường dây nối có phích cắm để có thể cắm đến ổ điện khác. Ta gọi các ổ điện này là ổ điện rời. Một ổ điện rời có điện chỉ khi phích cắm của nó được cắm vào ổ điện nguồn hoặc cắm vào một khe của ổ điện rời đang có điện. Chú ý là chỉ có một ổ điện rời được cắm vào ổ điện nguồn và mỗi khe có nhiều nhất một phích cắm được cắm vào.
 
-![Ổ cắm điện có 2 khe cắm](../../resources/_gen/images/ocamdien.png)
+![Ổ cắm điện có 2 khe cắm](https://raw.githubusercontent.com/xcitcvn/xclib/main/resources/_gen/images/ocamdien.png)
 
-Để cung cấp nguồn điện cho 𝑚 máy tính, mỗi máy tính cần được cắm vào một khe của ổ điện rời đang có điện. Cho biết số khe cắm của ổ điện rời thứ _i_ là $A_i$ (1 ≤ $A_i$ ≤ 10; _i_ = 1, 2, 3, … , _n_). Nhóm của Đức muốn sử dụng số ổ điện rời với số lượng ít nhất nhưng vẫn có thể cung cấp nguồn điện cho _m_ máy tính.
+Để cung cấp nguồn điện cho _m_ máy tính, mỗi máy tính cần được cắm vào một khe của ổ điện rời đang có điện. Cho biết số khe cắm của ổ điện rời thứ _i_ là Ai (1 ≤ Ai ≤ 10; i = 1, 2, 3, … , _n_). Nhóm của Đức muốn sử dụng số ổ điện rời với số lượng ít nhất nhưng vẫn có thể cung cấp nguồn điện cho _m_ máy tính.
 
 #### Yêu cầu:
 
@@ -64,7 +64,7 @@ Tính xem, số lượng ổ điện rời ít nhất cần dùng là bao nhiêu
 Cho trong tệp văn bản **_ODien.Inp_** gồm:
 
 - Dòng 1: ghi 2 số nguyên dương _n_ và _m_ tương ứng là số ổ điện rời và số máy tính.
-- Dòng 2 ghi 𝑛 số nguyên dương $A_1$, $A_2$,..., $A_n$ (1 ≤ $A_i$ ≤ 10) lần lượt là số khe cắm của _n_ ổ điện rời.
+- Dòng 2 ghi 𝑛 số nguyên dương $A_1$, $A_2$,..., An (1 ≤ Ai ≤ 10) lần lượt là số khe cắm của _n_ ổ điện rời.
 
 #### Kết quả:
 
@@ -72,10 +72,12 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
 
 #### Ví du:
 
-| ODien.inp          | ODien.out |
-| ------------------ | --------- |
-| 3 4 <br> 3 2 2     | 2         |
-| 5 5 <br> 1 3 1 2 1 | -1        |
+| Test | ODien.inp | ODien.out |
+| ---- | --------- | --------- |
+| 01   | 3 4       | 2         |
+|      | 3 2 2     |           |
+| 02   | 5 5       | -1        |
+|      | 1 3 1 2 1 |           |
 
 **Giải thích:**
 

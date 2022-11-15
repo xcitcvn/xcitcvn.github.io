@@ -2,4 +2,5 @@
 headless = true
 +++
 
-- [**Exam**]({{< relref "/posts/" >}})
+- [Book Example]({{< relref "/docs/" >}})
+- [Blog]({{< relref "/posts" >}})
