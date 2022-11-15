@@ -1,3 +1,8 @@
+---
+title: "HSG 12 Tỉnh Nghệ An 2022 - 2023"
+date: 2022-11-15T15:02:00+07:00
+---
+
 | Tên bài           | File nguồn      | File Input       | File output      | Thời gian | Bộ nhớ |
 | ----------------- | --------------- | ---------------- | ---------------- | --------- | ------ |
 | Số không hoàn hảo | KhongHoanHao.\* | KhongHoanHao.Inp | KhongHoanHao.Out | 1 giây    | 1024mb |

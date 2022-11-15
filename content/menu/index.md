@@ -2,4 +2,4 @@
 headless = true
 +++
 
-- [Blog]({{< relref "/posts" >}})
+- [**Exam**]({{< relref "/posts/" >}})
