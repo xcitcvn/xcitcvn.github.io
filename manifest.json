@@ -1,6 +1,6 @@
 {
-  "name": "XomCode Library",
-  "short_name": "XomCode Library",
+  "name": "Code Library",
+  "short_name": "Code Library",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
