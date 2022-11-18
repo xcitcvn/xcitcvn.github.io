@@ -1,6 +1,8 @@
 ---
 title: "HSG 12 Tỉnh Nghệ An 2022 - 2023"
 date: 2022-11-15T15:02:00+07:00
+tags: "Lớp 12"
+math: true
 ---
 
 | Tên bài           | File nguồn      | File Input       | File output      | Thời gian | Bộ nhớ |
@@ -74,13 +76,17 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
 #### Ví du:
 
 {{< tabs "bai2-1" >}}
-{{< tab "Input 1" >}} # MacOS Content {{< /tab >}}
-{{< tab "Output 1" >}} # Linux Content {{< /tab >}}
+{{< tab "Input 1" >}} 3 4
+
+3 2 2 {{< /tab >}}
+{{< tab "Output 1" >}} 2 {{< /tab >}}
 {{< /tabs >}}
 
 {{< tabs "bai2-2" >}}
-{{< tab "Input 2" >}} # MacOS Content {{< /tab >}}
-{{< tab "Output 2" >}} # Linux Content {{< /tab >}}
+{{< tab "Input 2" >}} 5 5
+
+1 3 1 2 1 {{< /tab >}}
+{{< tab "Output 2" >}} -1 {{< /tab >}}
 {{< /tabs >}}
 
 **Giải thích:**
@@ -90,3 +96,8 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
   - Ổ điện 2 cắm vào 1 khe cắm của ổ điện 1. Như vậy cả 2 ổ điện đều có điện. Ổ điện 1 còn 2 khe cắm chưa sử dụng, ổ điện 2 còn 2 khe cắm chưa sử dụng. Tổng số khe cắm có điện chưa sử dụng là 4. Sử dụng 4 khe cắm này để cung cấp điện cho 4 máy tính bằng cách mỗi máy tính được cắm vào 1 khe.
 - Ví dụ 2: Có 5 ổ điện rời và 5 máy tính. Không thể sử dụng 5 ổ
   điện rời để cung cấp điện cho 5 máy tính.
+
+#### Giới hạn:
+
+- Có 50% số test ứng với 50% số điểm thỏa mãn 1 ≤ 𝑛, 𝑚 ≤ 100; 𝑎1 = 𝑎2 = ⋯ = $$n > 2$$ = 2.
+- Có 50% số test ứng với 50% số điểm thỏa mãn 100 < 𝑛, 𝑚 ≤ 1000

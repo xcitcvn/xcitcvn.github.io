@@ -17,6 +17,13 @@ enableGitInfo = true
 [markup.tableOfContents]
   startLevel = 1
 
+[markup.asciidocExt]
+  extensions = ['asciidoctor-latex']
+  workingFolderCurrent = true
+  [markup.asciidocExt.attributes]
+    my-base-url = "https://xcitcvn.github.io/xclib/"
+    my-attribute-name = "xcLib value"
+
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
