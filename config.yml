@@ -1,0 +1,69 @@
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+baseURL: "https://xcitcvn.github.io/xclib/"
+languageCode: "en-us"
+title: "Code Library"
+theme: "fluency"
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: posts/
+      weight: 1
+    - identifier: tags
+      name: tags
+      url: tags/
+      weight: 2
+    - identifier: archives
+      name: archives
+      url: archives/
+      weight: 3
+    - identifier: about
+      name: about
+      url: about/
+      weight: 4 # order by asc
+  footer:
+    - identifier: twitter
+      url: "https://twitter.com/gohugoio"
+      name: Twitter
+    - identifier: github
+      url: "https://github.com/gohugoio"
+      name: Github
+
+
+params:
+  pageSize:
+    index: 5
+    list: 10
+    terms: 60
+    archives: 20
+  mainSections:
+    - posts
+    - docs
+  disableComment: false
+  disableCommentByType:
+    - page
+  thirdPartyComment: |
+    <div id="vcomments"></div>
+    <script src="//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
+    <script type="text/javascript">
+          new Valine({
+              el: '#vcomments',
+              appId: 'app-id',
+              appKey: 'app-key',
+              placeholder: 'feel free to comment',
+              avatar: 'robohash',
+              highlight: true,
+              requiredFields: ['nick','mail'],
+              meta: ['nick','mail','link'],
+      });
+    </script>
+
+pygmentsUseClasses: true # enable theme-defined highlight style
+pygmentsCodefences: true
+
+params.mathRender: true # katex.js
+
+params:
+  copyright: "© 2022︱<a href='https://github.com/xcitcvn/xclib'>Xóm Code</a>."
