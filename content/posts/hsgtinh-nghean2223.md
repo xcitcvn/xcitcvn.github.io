@@ -34,6 +34,16 @@ Ghi ra tệp văn bản **_KhongHoanHao.Out_** gồm một số nguyên duy nh�
 
 #### Ví dụ:
 
+**Test 1:**
+
+```input 1
+2 20
+```
+
+```output 1
+3
+```
+
 **Giải thích:** Có 3 số không hoàn hảo thuộc đoạn [2, 20] là: 12, 18, 20.
 
 - Số 12, có các ước khác 12: 1, 2, 3, 4, 6; tổng: 1 + 2 + 3 + 4 + 6 = 16 lớn hơn 12.
@@ -68,7 +78,29 @@ Cho trong tệp văn bản **_ODien.Inp_** gồm:
 
 ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là số ổ điện rời ít nhất cần sử dụng để cung cấp nguồn điện cho 𝑚 máy tính. Nếu không thể cung cấp nguồn điện cho 𝑚 máy tính khi sử dụng cả _n_ ổ điện rời thì ghi ra −1.
 
-#### Ví du:
+#### Ví dụ:
+
+**Test 1:**
+
+```input 1
+3 4
+3 2 2
+```
+
+```output 1
+2
+```
+
+**Test 2:**
+
+```input 2
+5 5
+1 3 1 2 1
+```
+
+```output 2
+-1
+```
 
 **Giải thích:**
 
@@ -80,5 +112,5 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
 
 #### Giới hạn:
 
-- Có 50% số test ứng với 50% số điểm thỏa mãn 1 ≤ 𝑛, 𝑚 ≤ 100; 𝑎1 = 𝑎2 = ⋯ = $$n > 2$$ = 2.
-- Có 50% số test ứng với 50% số điểm thỏa mãn 100 < 𝑛, 𝑚 ≤ 1000
+- Có 50% số test ứng với 50% số điểm thỏa mãn 1 ≤ _n, m_ ≤ 100; 𝑎1 = 𝑎2 = ⋯ = n > 2 = 2.
+- Có 50% số test ứng với 50% số điểm thỏa mãn 100 < _n, m_ ≤ 1000
