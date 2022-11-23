@@ -4,6 +4,12 @@ baseURL: "https://xcitcvn.github.io/xclib/"
 languageCode: "en-us"
 title: "Code Library"
 theme: "fluency"
+enableRobotsTXT: true
+summaryLength: 100 # Configure how long the post summary should be on the homepage.
+pygmentsUseClasses: true # enable theme-defined highlight style
+pygmentsCodefences: true
+hasCJKLanguage: false
+enableEmoji: true
 
 menu:
   main:
@@ -40,7 +46,6 @@ params:
     archives: 20
   mainSections:
     - posts
-    - docs
   disableComment: false
   disableCommentByType:
     - page
@@ -64,6 +69,8 @@ pygmentsUseClasses: true # enable theme-defined highlight style
 pygmentsCodefences: true
 
 params.mathRender: true # katex.js
+
+mathRender: true
 
 params:
   copyright: "© 2022︱<a href='https://github.com/xcitcvn/xclib'>Xóm Code</a>."
