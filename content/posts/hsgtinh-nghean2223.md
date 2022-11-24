@@ -3,6 +3,7 @@ title: "HSG 12 Tỉnh Nghệ An 2022 - 2023"
 date: 2022-11-15T15:02:00+07:00
 math: true
 mathjax: true
+tags: ["Đề Thi Tỉnh", "Lớp 12", "Nghệ An", "2022-2023", "Trung Bình"]
 ---
 
 | Tên bài           | File nguồn      | File Input       | File output      | Thời gian | Bộ nhớ |
@@ -22,7 +23,7 @@ Phần mở rộng .\* được thay thế bằng Pas, Cpp, Py ứng với các 
 
 #### Yêu cầu:
 
-Cho hai số nguyên dương _a_ và _b_ (2 ≤ a ≤ b ≤ 10^5). Tính xem có bao nhiêu số không hoàn hảo thuộc đoạn [*a, b*], tức là tính xem có bao nhiêu số nguyên dương _n_ thỏa mãn: _a ≤ n ≤ b_ và _n_ là một số không hoàn hảo.
+Cho hai số nguyên dương _a_ và _b_ (2 ≤ a ≤ b ≤ $10^5$). Tính xem có bao nhiêu số không hoàn hảo thuộc đoạn [*a, b*], tức là tính xem có bao nhiêu số nguyên dương _n_ thỏa mãn: _a ≤ n ≤ b_ và _n_ là một số không hoàn hảo.
 
 #### Dữ liệu
 
@@ -76,7 +77,7 @@ Cho trong tệp văn bản **_ODien.Inp_** gồm:
 
 #### Kết quả:
 
-ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là số ổ điện rời ít nhất cần sử dụng để cung cấp nguồn điện cho 𝑚 máy tính. Nếu không thể cung cấp nguồn điện cho 𝑚 máy tính khi sử dụng cả _n_ ổ điện rời thì ghi ra −1.
+ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là số ổ điện rời ít nhất cần sử dụng để cung cấp nguồn điện cho _m_ máy tính. Nếu không thể cung cấp nguồn điện cho _m_ máy tính khi sử dụng cả _n_ ổ điện rời thì ghi ra −1.
 
 #### Ví dụ:
 
@@ -114,3 +115,7 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
 
 - Có 50% số test ứng với 50% số điểm thỏa mãn 1 ≤ _n, m_ ≤ 100; 𝑎1 = 𝑎2 = ⋯ = n > 2 = 2.
 - Có 50% số test ứng với 50% số điểm thỏa mãn 100 < _n, m_ ≤ 1000
+
+#### [Tải đề bài và Test][link-de-bai]
+
+[link-de-bai]: https://drive.google.com/drive/folders/1sjDpbFwtXTBt8e1wjuIapqDGLonG-_hA?usp=sharing
