@@ -1,2 +1,271 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code Library</title><link>https://xcitcvn.github.io/xclib/</link><description>Recent content on Code Library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 15:02:00 +0700</lastBuildDate><atom:link href="https://xcitcvn.github.io/xclib/index.xml" rel="self" type="application/rss+xml"/><item><title>HSG 12 Tỉnh Nghệ An 2022 - 2023</title><link>https://xcitcvn.github.io/xclib/posts/hsgtinh-nghean2223/</link><pubDate>Tue, 15 Nov 2022 15:02:00 +0700</pubDate><guid>https://xcitcvn.github.io/xclib/posts/hsgtinh-nghean2223/</guid><description>Tên bài File nguồn File Input File output Thời gian Bộ nhớ Số không hoàn hảo KhongHoanHao.* KhongHoanHao.Inp KhongHoanHao.Out 1 giây 1024mb Ổ cắm điện ODien.* ODien.Inp ODien.Out 1 giây 1024mb Dãy số đẹp Daysodep.* Daysodep.Inp Daysodep.Out 2 giây 1024mb Khởi nghiệp KhoiNghiep.* KhoiNghiep.Inp KhoiNghiep.Out 1 giây 1024mb Phần mở rộng .* được thay thế bằng Pas, Cpp, Py ứng với các ngôn ngữ lập trình Pascal, C++, Python.
-Hãy lập trình giải các bài toán sau đây: Câu 1. (6 điểm) Số không hoàn hảo Đức đang làm các bài tập về số học. Đức rất thích số hoàn hảo, đó là các số nguyên dương n mà tổng các ước dương (khác n) của n có giá trị bằng 𝑛.</description></item><item><title>Math Typesetting</title><link>https://xcitcvn.github.io/xclib/posts/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://xcitcvn.github.io/xclib/posts/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code Library</title><link>https://xcitcvn.github.io/xclib/</link><description>Recent content on Code Library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 15:02:00 +0700</lastBuildDate><atom:link href="https://xcitcvn.github.io/xclib/index.xml" rel="self" type="application/rss+xml"/><item><title>HSG 12 Tỉnh Nghệ An 2022 - 2023</title><link>https://xcitcvn.github.io/xclib/posts/hsgtinh-nghean2223/</link><pubDate>Tue, 15 Nov 2022 15:02:00 +0700</pubDate><guid>https://xcitcvn.github.io/xclib/posts/hsgtinh-nghean2223/</guid><description>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Tên bài&lt;/th>
+&lt;th>File nguồn&lt;/th>
+&lt;th>File Input&lt;/th>
+&lt;th>File output&lt;/th>
+&lt;th>Thời gian&lt;/th>
+&lt;th>Bộ nhớ&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Số không hoàn hảo&lt;/td>
+&lt;td>KhongHoanHao.*&lt;/td>
+&lt;td>KhongHoanHao.Inp&lt;/td>
+&lt;td>KhongHoanHao.Out&lt;/td>
+&lt;td>1 giây&lt;/td>
+&lt;td>1024mb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ổ cắm điện&lt;/td>
+&lt;td>ODien.*&lt;/td>
+&lt;td>ODien.Inp&lt;/td>
+&lt;td>ODien.Out&lt;/td>
+&lt;td>1 giây&lt;/td>
+&lt;td>1024mb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dãy số đẹp&lt;/td>
+&lt;td>Daysodep.*&lt;/td>
+&lt;td>Daysodep.Inp&lt;/td>
+&lt;td>Daysodep.Out&lt;/td>
+&lt;td>2 giây&lt;/td>
+&lt;td>1024mb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Khởi nghiệp&lt;/td>
+&lt;td>KhoiNghiep.*&lt;/td>
+&lt;td>KhoiNghiep.Inp&lt;/td>
+&lt;td>KhoiNghiep.Out&lt;/td>
+&lt;td>1 giây&lt;/td>
+&lt;td>1024mb&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Phần mở rộng .* được thay thế bằng Pas, Cpp, Py ứng với các ngôn ngữ lập trình Pascal, C++, Python.&lt;/p>
+&lt;h2 id="hãy-lập-trình-giải-các-bài-toán-sau-đây">
+&lt;a href="#h%c3%a3y-l%e1%ba%adp-tr%c3%acnh-gi%e1%ba%a3i-c%c3%a1c-b%c3%a0i-to%c3%a1n-sau-%c4%91%c3%a2y" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Hãy lập trình giải các bài toán sau đây:
+&lt;/h2>
+&lt;h3 id="câu-1-_6-điểm_-số-không-hoàn-hảo">
+&lt;a href="#c%c3%a2u-1-_6-%c4%91i%e1%bb%83m_-s%e1%bb%91-kh%c3%b4ng-ho%c3%a0n-h%e1%ba%a3o" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Câu 1. &lt;em>(6 điểm)&lt;/em> Số không hoàn hảo
+&lt;/h3>
+&lt;p>Đức đang làm các bài tập về số học. Đức rất thích số hoàn hảo, đó là các số nguyên dương &lt;em>n&lt;/em> mà tổng các ước dương (khác &lt;em>n&lt;/em>) của &lt;em>n&lt;/em> có giá trị bằng 𝑛. Ví dụ, &lt;em>n&lt;/em> = 6 là số hoàn hảo, vì 6 có các ước khác 6 là 1, 2, 3; tổng 1 + 2 + 3 = 6. Tuy nhiên, bài tập mà thầy giáo ra cho Đức là số không hoàn hảo. Một số nguyên dương &lt;em>n&lt;/em> được gọi là số không hoàn hảo nếu tổng các ước dương (khác &lt;em>n&lt;/em>) của &lt;em>n&lt;/em> có giá trị lớn hơn &lt;em>n&lt;/em>. Ví dụ, &lt;em>n&lt;/em> = 12 là số không hoàn hảo vì 12 có các ước khác 12 là 1, 2, 3, 4, 6; tổng 1 + 2 + 3 + 4 + 6 = 16 lớn hơn &lt;em>n&lt;/em> = 12.&lt;/p>
+&lt;h4 id="yêu-cầu">
+&lt;a href="#y%c3%aau-c%e1%ba%a7u" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Yêu cầu:
+&lt;/h4>
+&lt;p>Cho hai số nguyên dương &lt;em>a&lt;/em> và &lt;em>b&lt;/em> (2 ≤ a ≤ b ≤ $10^5$). Tính xem có bao nhiêu số không hoàn hảo thuộc đoạn [&lt;em>a, b&lt;/em>], tức là tính xem có bao nhiêu số nguyên dương &lt;em>n&lt;/em> thỏa mãn: &lt;em>a ≤ n ≤ b&lt;/em> và &lt;em>n&lt;/em> là một số không hoàn hảo.&lt;/p>
+&lt;h4 id="dữ-liệu">
+&lt;a href="#d%e1%bb%af-li%e1%bb%87u" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Dữ liệu
+&lt;/h4>
+&lt;p>Được cho trong tệp văn bản &lt;em>&lt;strong>KhongHoanHao.Inp&lt;/strong>&lt;/em> gồm hai số nguyên dương &lt;em>a&lt;/em> và &lt;em>b&lt;/em> được ghi trên 1 dòng và cách nhau bởi dấu cách&lt;/p>
+&lt;h4 id="kết-quả">
+&lt;a href="#k%e1%ba%bft-qu%e1%ba%a3" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Kết quả:
+&lt;/h4>
+&lt;p>Ghi ra tệp văn bản &lt;strong>&lt;em>KhongHoanHao.Out&lt;/em>&lt;/strong> gồm một số nguyên duy nhất là số các số không hoàn hảo thuộc đoạn [&lt;em>a&lt;/em>, &lt;em>b&lt;/em>]&lt;/p>
+&lt;h4 id="ví-dụ">
+&lt;a href="#v%c3%ad-d%e1%bb%a5" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Ví dụ:
+&lt;/h4>
+&lt;p>&lt;strong>Test 1:&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">2 20
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">3
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>Giải thích:&lt;/strong> Có 3 số không hoàn hảo thuộc đoạn [2, 20] là: 12, 18, 20.&lt;/p>
+&lt;ul>
+&lt;li>Số 12, có các ước khác 12: 1, 2, 3, 4, 6; tổng: 1 + 2 + 3 + 4 + 6 = 16 lớn hơn 12.&lt;/li>
+&lt;li>Số 18, có các ước khác 18: 1, 2, 3, 6, 9; tổng: 1 + 2 + 3 + 6 + 9 = 21 lớn hơn 18.&lt;/li>
+&lt;li>Số 20, có các ước khác 20: 1, 2, 4, 5, 10; tổng: 1 + 2 + 4 + 5 + 10 = 22 lớn hơn 20.&lt;/li>
+&lt;/ul>
+&lt;h4 id="giới-hạn">
+&lt;a href="#gi%e1%bb%9bi-h%e1%ba%a1n" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Giới hạn:
+&lt;/h4>
+&lt;ul>
+&lt;li>Có 90% số test tương ứng với 90% số điểm thỏa mãn: 2 ≤ a ≤ b ≤ 1000;&lt;/li>
+&lt;li>Có 10% còn lại tương ứng với 10% điểm thỏa mãn: 1000 ≤ a ≤ b ≤ 10^5.&lt;/li>
+&lt;/ul>
+&lt;h3 id="bài-2-_5-điểm_-ổ-cắm-điện">
+&lt;a href="#b%c3%a0i-2-_5-%c4%91i%e1%bb%83m_-%e1%bb%95-c%e1%ba%afm-%c4%91i%e1%bb%87n" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Bài 2: &lt;em>(5 điểm)&lt;/em> Ổ cắm điện
+&lt;/h3>
+&lt;p>Đức cùng nhóm bạn của mình được thầy giáo giao nhiệm vụ hỗ trợ chuẩn bị phòng máy cho kì thi lập trình danh giá được tổ chức sắp tới. Phòng máy có &lt;em>m&lt;/em> máy tính, công việc của nhóm Đức là sử dụng các ổ cắm điện có dây để cung cấp nguồn điện cho &lt;em>m&lt;/em> máy tính. Phòng máy chỉ có một ổ điện có một khe cắm ở trên tường là đang có điện, và được gọi là ổ điện nguồn. Hiện tại trong nhà kho có &lt;em>n&lt;/em> ổ cắm điện có dây, mỗi ổ điện có một số khe cắm và một đường dây nối có phích cắm để có thể cắm đến ổ điện khác. Ta gọi các ổ điện này là ổ điện rời. Một ổ điện rời có điện chỉ khi phích cắm của nó được cắm vào ổ điện nguồn hoặc cắm vào một khe của ổ điện rời đang có điện. Chú ý là chỉ có một ổ điện rời được cắm vào ổ điện nguồn và mỗi khe có nhiều nhất một phích cắm được cắm vào.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://raw.githubusercontent.com/xcitcvn/xclib/main/resources/_gen/images/ocamdien.png"
+alt="Ổ cắm điện có 2 khe cắm"
+/>&lt;/p>
+&lt;p>Để cung cấp nguồn điện cho &lt;em>m&lt;/em> máy tính, mỗi máy tính cần được cắm vào một khe của ổ điện rời đang có điện. Cho biết số khe cắm của ổ điện rời thứ &lt;em>i&lt;/em> là Ai (1 ≤ Ai ≤ 10; i = 1, 2, 3, … , &lt;em>n&lt;/em>). Nhóm của Đức muốn sử dụng số ổ điện rời với số lượng ít nhất nhưng vẫn có thể cung cấp nguồn điện cho &lt;em>m&lt;/em> máy tính.&lt;/p>
+&lt;h4 id="yêu-cầu-1">
+&lt;a href="#y%c3%aau-c%e1%ba%a7u-1" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Yêu cầu:
+&lt;/h4>
+&lt;p>Tính xem, số lượng ổ điện rời ít nhất cần dùng là bao nhiêu?&lt;/p>
+&lt;h4 id="dữ-liệu-1">
+&lt;a href="#d%e1%bb%af-li%e1%bb%87u-1" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Dữ liệu:
+&lt;/h4>
+&lt;p>Cho trong tệp văn bản &lt;strong>&lt;em>ODien.Inp&lt;/em>&lt;/strong> gồm:&lt;/p>
+&lt;ul>
+&lt;li>Dòng 1: ghi 2 số nguyên dương &lt;em>n&lt;/em> và &lt;em>m&lt;/em> tương ứng là số ổ điện rời và số máy tính.&lt;/li>
+&lt;li>Dòng 2 ghi 𝑛 số nguyên dương $A_1$, $A_2$,&amp;hellip;, An (1 ≤ Ai ≤ 10) lần lượt là số khe cắm của &lt;em>n&lt;/em> ổ điện rời.&lt;/li>
+&lt;/ul>
+&lt;h4 id="kết-quả-1">
+&lt;a href="#k%e1%ba%bft-qu%e1%ba%a3-1" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Kết quả:
+&lt;/h4>
+&lt;p>ghi ra tệp văn bản &lt;strong>&lt;em>ODien.Out&lt;/em>&lt;/strong> gồm một số nguyên duy nhất là số ổ điện rời ít nhất cần sử dụng để cung cấp nguồn điện cho &lt;em>m&lt;/em> máy tính. Nếu không thể cung cấp nguồn điện cho &lt;em>m&lt;/em> máy tính khi sử dụng cả &lt;em>n&lt;/em> ổ điện rời thì ghi ra −1.&lt;/p>
+&lt;h4 id="ví-dụ-1">
+&lt;a href="#v%c3%ad-d%e1%bb%a5-1" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Ví dụ:
+&lt;/h4>
+&lt;p>&lt;strong>Test 1:&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">3 4
+3 2 2
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">2
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>Test 2:&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">5 5
+1 3 1 2 1
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">-1
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>Giải thích:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ví dụ 1: Có 3 ổ điện rời và 4 máy tính. Có thể chọn 2 ổ điện là ổ điện 1 và 2:
+&lt;ul>
+&lt;li>Ổ điện 1 cắm vào ổ điện nguồn.&lt;/li>
+&lt;li>Ổ điện 2 cắm vào 1 khe cắm của ổ điện 1. Như vậy cả 2 ổ điện đều có điện. Ổ điện 1 còn 2 khe cắm chưa sử dụng, ổ điện 2 còn 2 khe cắm chưa sử dụng. Tổng số khe cắm có điện chưa sử dụng là 4. Sử dụng 4 khe cắm này để cung cấp điện cho 4 máy tính bằng cách mỗi máy tính được cắm vào 1 khe.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ví dụ 2: Có 5 ổ điện rời và 5 máy tính. Không thể sử dụng 5 ổ
+điện rời để cung cấp điện cho 5 máy tính.&lt;/li>
+&lt;/ul>
+&lt;h4 id="giới-hạn-1">
+&lt;a href="#gi%e1%bb%9bi-h%e1%ba%a1n-1" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Giới hạn:
+&lt;/h4>
+&lt;ul>
+&lt;li>Có 50% số test ứng với 50% số điểm thỏa mãn 1 ≤ &lt;em>n, m&lt;/em> ≤ 100; 𝑎1 = 𝑎2 = ⋯ = n &amp;gt; 2 = 2.&lt;/li>
+&lt;li>Có 50% số test ứng với 50% số điểm thỏa mãn 100 &amp;lt; &lt;em>n, m&lt;/em> ≤ 1000&lt;/li>
+&lt;/ul>
+&lt;h4 id="tải-đề-bài-và-testlink-de-bai">
+&lt;a href="#t%e1%ba%a3i-%c4%91%e1%bb%81-b%c3%a0i-v%c3%a0-testlink-de-bai" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+&lt;a href="https://drive.google.com/drive/folders/1sjDpbFwtXTBt8e1wjuIapqDGLonG-_hA?usp=sharing">Tải đề bài và Test&lt;/a>
+&lt;/h4></description></item><item><title>Math Typesetting</title><link>https://xcitcvn.github.io/xclib/posts/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>Hugo Authors</author><guid>https://xcitcvn.github.io/xclib/posts/math-typesetting/</guid><description>
+&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
+&lt;p>In this example we will be using &lt;a href="https://katex.org/">KaTeX&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Create a partial under &lt;code>/layouts/partials/math.html&lt;/code>&lt;/li>
+&lt;li>Within this partial reference the &lt;a href="https://katex.org/docs/autorender.html">Auto-render Extension&lt;/a> or host these scripts locally.&lt;/li>
+&lt;li>Include the partial in your templates like so:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="o">{{&lt;/span> &lt;span class="k">if&lt;/span> or .Params.math .Site.Params.math &lt;span class="o">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">{{&lt;/span> partial &lt;span class="s2">&amp;#34;math.html&amp;#34;&lt;/span> . &lt;span class="o">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">{{&lt;/span> end &lt;span class="o">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>To enable KaTex globally set the parameter &lt;code>math&lt;/code> to &lt;code>true&lt;/code> in a project&amp;rsquo;s configuration&lt;/li>
+&lt;li>To enable KaTex on a per page basis include the parameter &lt;code>math: true&lt;/code> in content files&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> Use the online reference of &lt;a href="https://katex.org/docs/supported.html">Supported TeX Functions&lt;/a>&lt;/p>
+&lt;h3 id="examples">
+&lt;a href="#examples" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Examples
+&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;p>Block math:
+$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$&lt;/p></description></item></channel></rss>
