@@ -35,11 +35,11 @@ Ghi ra tệp văn bản **_KhongHoanHao.Out_** gồm một số nguyên duy nh�
 
 **Test 1:**
 
-```input 1
+```md
 2 20
 ```
 
-```output 1
+```md
 3
 ```
 
@@ -81,23 +81,23 @@ ghi ra tệp văn bản **_ODien.Out_** gồm một số nguyên duy nhất là 
 
 **Test 1:**
 
-```input 1
+```md
 3 4
 3 2 2
 ```
 
-```output 1
+```md
 2
 ```
 
 **Test 2:**
 
-```input 2
+```md
 5 5
 1 3 1 2 1
 ```
 
-```output 2
+```md
 -1
 ```
 

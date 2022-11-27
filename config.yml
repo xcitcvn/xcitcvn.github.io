@@ -3,7 +3,7 @@
 baseURL: "https://xcitcvn.github.io/"
 homepage: "https://xcitcvn.github.io/"
 languageCode: "en-us"
-title: "Code Library"
+title: "IT Exem"
 theme: "tania"
 paginate: 6
 
@@ -20,7 +20,7 @@ params:
   # Default to true
   enableFootnotes: true
 
-  siteName: "Xom Code Library"
+  siteName: "IT Exam"
   siteDesc: "Thư viện đề thi - Tài liệu tham khảo về lập trình!"
   author: "susanop"
 
@@ -68,6 +68,8 @@ menu:
   header:
     - name: Articles
       url: "/articles/"
+    - name: Blog
+      url: "https://xomcodeit.blogspot.com/"
   footer:
     - name: RSS
       url: "/index.xml"
