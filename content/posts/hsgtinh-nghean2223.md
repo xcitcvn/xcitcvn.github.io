@@ -1,9 +1,7 @@
 ---
 title: "HSG 12 Tỉnh Nghệ An 2022 - 2023"
 date: 2022-11-15T15:02:00+07:00
-math: true
-mathjax: true
-tags: ["Đề Thi Tỉnh", "Lớp 12", "Nghệ An", "2022-2023", "Trung Bình"]
+katex: true
 ---
 
 | Tên bài           | File nguồn      | File Input       | File output      | Thời gian | Bộ nhớ |

@@ -4,73 +4,80 @@ baseURL: "https://xcitcvn.github.io/xclib/"
 languageCode: "en-us"
 title: "Code Library"
 theme: "tania"
-enableRobotsTXT: true
-summaryLength: 100 # Configure how long the post summary should be on the homepage.
-pygmentsUseClasses: true # enable theme-defined highlight style
-pygmentsCodefences: true
-hasCJKLanguage: false
-enableEmoji: true
+paginate: 6
+
+disqusShortname: xclib
+
+params:
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji: "🍉"
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo:
+
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes: true
+
+  siteName: "Xom Code Library"
+  siteDesc: "Thư viện đề thi - Tài liệu tham khảo về lập trình!"
+  author: "susanop"
+
+  colorScheme:
+    # Enable toggle colorScheme
+    # Default to true
+    toggle: true
+    # Default colorScheme
+    # Default to auto
+    default: auto
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow: 10
+
+  # Show your socail information with icon on index bio with `_index.md` content.
+  socialOptions:
+    dev-to:
+    email:
+    facebook:
+    github:
+    instagram:
+    linkedin:
+    medium:
+    stack-overflow:
+    steam:
+    telegram:
+    twitter:
+    twitch:
+    whatsapp:
+
+  # Comments settings
+  comments:
+    enabled: true
+    provider: giscus
+
+    giscus:
+      repo: WingLim/hugo-tania
+      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      category:
+        name: Comments
+        id: DIC_kwDOEtnPc84B_WKP
 
 menu:
-  main:
-    - identifier: posts
-      name: posts
-      url: posts/
-      weight: 1
-    - identifier: tags
-      name: tags
-      url: tags/
-      weight: 2
-    - identifier: archives
-      name: archives
-      url: archives/
-      weight: 3
-    - identifier: about
-      name: about
-      url: about/
-      weight: 4 # order by asc
+  header:
+    - name: Articles
+      url: "/articles/"
   footer:
-    - identifier: twitter
-      url: "https://twitter.com/gohugoio"
-      name: Twitter
-    - identifier: github
-      url: "https://github.com/gohugoio"
-      name: Github
+    - name: RSS
+      url: "/index.xml"
 
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
 
-params:
-  pageSize:
-    index: 5
-    list: 10
-    terms: 60
-    archives: 20
-  mainSections:
-    - posts
-  disableComment: false
-  disableCommentByType:
-    - page
-  thirdPartyComment: |
-    <div id="vcomments"></div>
-    <script src="//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
-    <script type="text/javascript">
-          new Valine({
-              el: '#vcomments',
-              appId: 'app-id',
-              appKey: 'app-key',
-              placeholder: 'feel free to comment',
-              avatar: 'robohash',
-              highlight: true,
-              requiredFields: ['nick','mail'],
-              meta: ['nick','mail','link'],
-      });
-    </script>
-
-pygmentsUseClasses: true # enable theme-defined highlight style
-pygmentsCodefences: true
-
-params.mathRender: true # katex.js
-
-mathRender: true
-
-params:
-  copyright: "© 2022︱<a href='https://github.com/xcitcvn/xclib'>Xóm Code</a>."
+outputs:
+  home: ["HTML", "RSS", "JSON"]
