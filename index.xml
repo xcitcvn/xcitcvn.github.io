@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code Library</title><link>https://xcitcvn.github.io/</link><description>Recent content on Code Library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 15:02:00 +0700</lastBuildDate><atom:link href="https://xcitcvn.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>HSG 12 Tỉnh Nghệ An 2022 - 2023</title><link>https://xcitcvn.github.io/posts/hsgtinh-nghean2223/</link><pubDate>Tue, 15 Nov 2022 15:02:00 +0700</pubDate><guid>https://xcitcvn.github.io/posts/hsgtinh-nghean2223/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IT Exem</title><link>https://xcitcvn.github.io/</link><description>Recent content on IT Exem</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 15:02:00 +0700</lastBuildDate><atom:link href="https://xcitcvn.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>HSG 12 Tỉnh Nghệ An 2022 - 2023</title><link>https://xcitcvn.github.io/posts/hsgtinh-nghean2223/</link><pubDate>Tue, 15 Nov 2022 15:02:00 +0700</pubDate><guid>https://xcitcvn.github.io/posts/hsgtinh-nghean2223/</guid><description>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -111,9 +111,23 @@ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.
 Ví dụ:
 &lt;/h4>
 &lt;p>&lt;strong>Test 1:&lt;/strong>&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">2 20
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">3
-&lt;/code>&lt;/pre>&lt;p>&lt;strong>Giải thích:&lt;/strong> Có 3 số không hoàn hảo thuộc đoạn [2, 20] là: 12, 18, 20.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">2 20
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">3
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;strong>Giải thích:&lt;/strong> Có 3 số không hoàn hảo thuộc đoạn [2, 20] là: 12, 18, 20.&lt;/p>
 &lt;ul>
 &lt;li>Số 12, có các ước khác 12: 1, 2, 3, 4, 6; tổng: 1 + 2 + 3 + 4 + 6 = 16 lớn hơn 12.&lt;/li>
 &lt;li>Số 18, có các ước khác 18: 1, 2, 3, 6, 9; tổng: 1 + 2 + 3 + 6 + 9 = 21 lớn hơn 18.&lt;/li>
@@ -197,14 +211,44 @@ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.
 Ví dụ:
 &lt;/h4>
 &lt;p>&lt;strong>Test 1:&lt;/strong>&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">3 4
-3 2 2
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">2
-&lt;/code>&lt;/pre>&lt;p>&lt;strong>Test 2:&lt;/strong>&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-input" data-lang="input">5 5
-1 3 1 2 1
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-output" data-lang="output">-1
-&lt;/code>&lt;/pre>&lt;p>&lt;strong>Giải thích:&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">3 4
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3 2 2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;strong>Test 2:&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">5 5
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1 3 1 2 1
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-md" data-lang="md">&lt;span class="line">&lt;span class="cl">-1
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;strong>Giải thích:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Ví dụ 1: Có 3 ổ điện rời và 4 máy tính. Có thể chọn 2 ổ điện là ổ điện 1 và 2:
 &lt;ul>
