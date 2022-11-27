@@ -3,7 +3,7 @@
 baseURL: "https://xcitcvn.github.io/xclib/"
 languageCode: "en-us"
 title: "Code Library"
-theme: "fluency"
+theme: "tania"
 enableRobotsTXT: true
 summaryLength: 100 # Configure how long the post summary should be on the homepage.
 pygmentsUseClasses: true # enable theme-defined highlight style

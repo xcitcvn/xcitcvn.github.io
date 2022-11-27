@@ -4,3 +4,6 @@
 [submodule "themes/fluency"]
 	path = themes/fluency
 	url = https://github.com/wayjam/hugo-theme-fluency.git
+[submodule "themes/tania"]
+	path = themes/tania
+	url = https://github.com/WingLim/hugo-tania.git
