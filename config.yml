@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: "https://xcitcvn.github.io/xclib/"
-homepage: "https://xcitcvn.github.io/xclib/"
+baseURL: "https://xcitcvn.github.io/"
+homepage: "https://xcitcvn.github.io/"
 languageCode: "en-us"
 title: "Code Library"
 theme: "tania"
