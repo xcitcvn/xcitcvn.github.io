@@ -4,7 +4,7 @@ date: 2022-11-15T15:02:00+07:00
 katex: true
 ---
 
-<object data="/pdf/BangA_ChinhThuc.pdf" type="application/pdf" width="150%" height="800px" style="position: relative; left: -25%;">
+<object data="/resources/pdf/BangA_ChinhThuc.pdf" type="application/pdf" width="150%" height="800px" style="position: relative; left: -25%;">
 </object>
 
 #### [Tải đề bài và Test][link-de-bai]
