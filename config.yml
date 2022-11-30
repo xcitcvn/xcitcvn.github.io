@@ -66,10 +66,10 @@ params:
 
 menu:
   header:
-    - name: Articles
+    - name: Bài viết
       url: "/articles/"
-    - name: Blog
-      url: "https://xomcodeit.blogspot.com/"
+    - name: Đề thi
+      url: "/tags/exam/"
   footer:
     - name: RSS
       url: "/index.xml"
